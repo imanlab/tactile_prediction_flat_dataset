@@ -1,0 +1,2 @@
+object_name,object_class,seen,dropped,notes,sensor_type,frequency_hz,start_time,stop_time
+7,box,1,1,side-to-side motions object slowly slid down,xela_2fingers_noglove,38.0902544887,2021-11-25 13:27:11.445946,2021-11-25 13:27:35.914210

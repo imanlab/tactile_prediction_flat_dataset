@@ -1,0 +1,2 @@
+object_name,object_class,seen,dropped,notes,sensor_type,frequency_hz,start_time,stop_time
+11,box,0,1,"Side to Side motion, loose grip, high slip and drop!",xela_2fingers_noglove,34.4943138518,2021-11-25 13:12:07.006766,2021-11-25 13:12:16.167765

@@ -1,0 +1,2 @@
+object_name,object_class,seen,dropped,notes,sensor_type,frequency_hz,start_time,stop_time
+11,box,0,0,test motion medium speed,xela_2fingers_noglove,36.8196767245,2021-11-25 13:07:15.514804,2021-11-25 13:07:20.159157

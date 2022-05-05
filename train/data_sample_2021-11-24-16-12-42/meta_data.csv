@@ -1,0 +1,2 @@
+object_name,object_class,seen,dropped,sensor_type,frequency_hz,start_time,stop_time
+5,box,1,1,xela_2fingers_noglove,41.5503234014,2021-11-24 16:12:12.178654,2021-11-24 16:12:42.310881

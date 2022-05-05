@@ -1,0 +1,2 @@
+object_name,object_class,seen,dropped,notes,sensor_type,frequency_hz,start_time,stop_time
+7,box,1,0,test motion slow speed,xela_2fingers_noglove,37.5150593097,2021-11-25 13:26:10.985437,2021-11-25 13:26:15.970173

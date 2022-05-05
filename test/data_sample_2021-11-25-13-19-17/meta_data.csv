@@ -1,0 +1,2 @@
+object_name,object_class,seen,dropped,notes,sensor_type,frequency_hz,start_time,stop_time
+11,box,0,1,extreme motion possibly not in train set,xela_2fingers_noglove,37.7858761822,2021-11-25 13:19:09.847000,2021-11-25 13:19:17.945417
